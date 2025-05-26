@@ -54,6 +54,14 @@ Launch the project in Google Colab:
 
 ---
 
+## 📄 Project Report
+
+For a detailed explanation of the dataset, feature extraction, model selection, and analysis, check out the full report:
+
+👉 [Final Project Report (PDF)](./Final%20Project%20Report.pdf)
+
+---
+
 ## 🤝 Contributing
 
 This was developed as part of a machine learning exploration project. Feel free to fork and expand the analysis — contributions or suggestions are always welcome.
